@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Saratoga Springs Concerts",
+    "version": "1.0.0",
+    "description": "This is an extension to look up concerts in SS",
+    "manifest_version": 3,
+    "author": "Alexei R",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming SS Concerts"
+    }
+}
